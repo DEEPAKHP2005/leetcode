@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
