@@ -10,6 +10,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/DEEPAKHP2005/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -68,4 +72,9 @@
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/DEEPAKHP2005/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
