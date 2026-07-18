@@ -10,6 +10,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/DEEPAKHP2005/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -71,6 +73,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/DEEPAKHP2005/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
