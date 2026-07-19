@@ -8,6 +8,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -32,6 +34,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -45,6 +48,7 @@
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -65,6 +69,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
