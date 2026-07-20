@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
@@ -74,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Number Theory
 |  |
