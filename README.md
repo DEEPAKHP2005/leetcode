@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/0020-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEEPAKHP2005/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
