@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -99,4 +102,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
