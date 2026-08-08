@@ -40,6 +40,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/DEEPAKHP2005/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4286-valid-digit-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/4286-valid-digit-number) |
 ## Binary Search
 |  |
 | ------- |
