@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4107-find-missing-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/4107-find-missing-elements) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0141-linked-list-cycle) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
