@@ -138,6 +138,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
