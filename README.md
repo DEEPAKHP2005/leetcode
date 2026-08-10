@@ -19,6 +19,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4107-find-missing-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4281-score-validator](https://github.com/DEEPAKHP2005/leetcode/tree/master/4281-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEEPAKHP2005/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [4281-score-validator](https://github.com/DEEPAKHP2005/leetcode/tree/master/4281-score-validator) |
 ## Number Theory
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4281-score-validator](https://github.com/DEEPAKHP2005/leetcode/tree/master/4281-score-validator) |
 ## Stack
 |  |
 | ------- |
