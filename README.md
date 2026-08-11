@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DEEPAKHP2005/leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/DEEPAKHP2005/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
