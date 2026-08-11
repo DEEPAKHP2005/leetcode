@@ -12,9 +12,8 @@ public:
             }
             else break;
         }
-        for(int i=sum;i<=50;i++){
-            if(mp.count(sum)==0) return sum;
-            else sum++;
+        while(mp.count(sum)){
+            sum++;
         }
         return sum;
     }
