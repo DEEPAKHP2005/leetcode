@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@
 | [0041-first-missing-positive](https://github.com/DEEPAKHP2005/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DEEPAKHP2005/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/DEEPAKHP2005/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DEEPAKHP2005/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DEEPAKHP2005/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -138,6 +141,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
