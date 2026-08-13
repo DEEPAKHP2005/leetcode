@@ -159,6 +159,7 @@
 | [0141-linked-list-cycle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0206-reverse-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -174,7 +175,8 @@
 | ------- |
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/0203-remove-linked-list-elements) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+| [0206-reverse-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0206-reverse-linked-list) |
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
