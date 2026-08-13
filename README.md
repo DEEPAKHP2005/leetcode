@@ -21,6 +21,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4107-find-missing-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4281-score-validator](https://github.com/DEEPAKHP2005/leetcode/tree/master/4281-score-validator) |
@@ -40,6 +41,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4107-find-missing-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -157,6 +159,7 @@
 | [0141-linked-list-cycle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -169,7 +172,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
