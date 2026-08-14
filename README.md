@@ -41,6 +41,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/DEEPAKHP2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4107-find-missing-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/4107-find-missing-elements) |
 ## Math
@@ -94,6 +95,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/DEEPAKHP2005/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/DEEPAKHP2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DEEPAKHP2005/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DEEPAKHP2005/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/DEEPAKHP2005/leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/DEEPAKHP2005/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4281-score-validator](https://github.com/DEEPAKHP2005/leetcode/tree/master/4281-score-validator) |
 ## Number Theory
 |  |
@@ -179,7 +182,7 @@
 | [0143-reorder-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0206-reverse-linked-list) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0229-majority-element-ii) |
