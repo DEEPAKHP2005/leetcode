@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        unordered_map<char,int> mp;
+        unordered_map<int,int> mp;
         int l=0;
         int r=0;
         int ans=0;
