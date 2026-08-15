@@ -8,7 +8,7 @@ public:
         }
         vector<int> arr;
         for(int i=0;i<n;i++){
-            if(mp[nums[i]]==1 && mp[nums[i]-1]==0 && mp[nums[i]+1]==0){
+            if(mp[nums[i]]==1 && mp.count(nums[i]-1)==0 && mp.count(nums[i]+1)==0){
                 arr.push_back(nums[i]);
             }
         }
