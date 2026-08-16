@@ -31,7 +31,7 @@ public:
         }
         if (n == count) {
             head = head->next;
-            delete temp1;
+            // delete temp1;
             return head;
         }
         temp1=prev->next;
