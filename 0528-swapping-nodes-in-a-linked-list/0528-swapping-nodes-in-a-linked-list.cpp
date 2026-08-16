@@ -13,13 +13,13 @@ public:
     ListNode* swapNodes(ListNode* head, int k) {
         ListNode* temp=head;
         int count=0;
-        int fstk=0;
-        int seck=0;
+        // int fstk=0;
+        // int seck=0;
         ListNode* temp2=head;
         while(temp!=NULL){
             count++;
             if(count==k){
-                fstk=temp->val;
+                // fstk=temp->val;
                 temp2=temp;
             }
             temp=temp->next;
@@ -29,13 +29,14 @@ public:
         while(temp3!=NULL){
             newcount++;
             if(newcount==(count-k+1)){
-                seck=temp3->val;
+                // seck=temp3->val;
                 break;
             }
             temp3=temp3->next;
         }
-        temp3->val=fstk;
-        temp2->val=seck;
+        // temp3->val=fstk;
+        // temp2->val=seck;
+        swap(temp2->val, temp3->val);
         return head;
     }
 };
