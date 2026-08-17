@@ -16,21 +16,17 @@ public:
              temp=temp->next;
         }
         ListNode* temp1=list1;
-        ListNode* prev=NULL;
         int count=0;
         while(temp1!=NULL){
             ListNode* front=temp1->next;
             count++;
             if(count==a){
                 temp1->next=list2;
-                temp1=front;
             }
             if(count==b+1){
                temp->next=front;
-               temp1=front;
             }
             temp1=front;
-            prev=temp1;
         }
         return list1;
     }
