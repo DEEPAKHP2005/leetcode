@@ -29,6 +29,7 @@
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
