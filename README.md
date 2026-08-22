@@ -57,4 +57,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/DEEPAKHP2005/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
