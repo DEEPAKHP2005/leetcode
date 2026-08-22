@@ -33,6 +33,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DEEPAKHP2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -60,12 +62,15 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/DEEPAKHP2005/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
