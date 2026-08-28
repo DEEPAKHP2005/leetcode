@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/DEEPAKHP2005/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
