@@ -47,6 +47,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/DEEPAKHP2005/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
