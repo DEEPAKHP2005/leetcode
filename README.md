@@ -42,6 +42,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -123,22 +125,34 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
