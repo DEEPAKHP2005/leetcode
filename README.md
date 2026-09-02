@@ -14,6 +14,7 @@
 | [1765-merge-in-between-linked-lists](https://github.com/DEEPAKHP2005/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DEEPAKHP2005/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/DEEPAKHP2005/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
@@ -86,6 +87,7 @@
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/DEEPAKHP2005/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
