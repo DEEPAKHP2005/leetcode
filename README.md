@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEEPAKHP2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
