@@ -16,11 +16,12 @@ public:
         ListNode* current=head->next;
         int sum = 0;
         while(current){
-            sum += current->val;
-            if(current->val == 0){
-                pointer->next= new ListNode(sum);
-                pointer=pointer->next;
-                sum=0;
+            if (current->val == 0) {
+                pointer->next = new ListNode(sum);
+                pointer = pointer->next;
+                sum = 0;
+            } else {
+                sum += current->val;
             }
             current=current->next;
         }
