@@ -85,6 +85,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DEEPAKHP2005/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -136,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
@@ -189,4 +191,12 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
