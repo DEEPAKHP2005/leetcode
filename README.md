@@ -100,6 +100,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DEEPAKHP2005/leetcode/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/DEEPAKHP2005/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0189-rotate-array) |
@@ -142,6 +144,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DEEPAKHP2005/leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -204,4 +207,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DEEPAKHP2005/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
