@@ -26,6 +26,7 @@
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -156,6 +157,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0807-custom-sort-string) |
+| [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
