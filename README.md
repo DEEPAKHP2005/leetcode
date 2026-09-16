@@ -68,6 +68,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -104,6 +105,7 @@
 | [0807-custom-sort-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0807-custom-sort-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
@@ -127,6 +129,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
