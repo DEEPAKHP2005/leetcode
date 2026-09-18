@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DEEPAKHP2005/leetcode/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -42,6 +43,7 @@
 | [0496-next-greater-element-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DEEPAKHP2005/leetcode/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
@@ -60,6 +62,7 @@
 | [0506-relative-ranks](https://github.com/DEEPAKHP2005/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/DEEPAKHP2005/leetcode/tree/master/0739-daily-temperatures) |
+| [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -263,4 +266,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
