@@ -30,6 +30,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
+| [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -46,6 +47,7 @@
 | [0739-daily-temperatures](https://github.com/DEEPAKHP2005/leetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -78,6 +80,7 @@
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/DEEPAKHP2005/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
