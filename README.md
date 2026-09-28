@@ -31,6 +31,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -187,6 +188,7 @@
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0807-custom-sort-string) |
 | [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
