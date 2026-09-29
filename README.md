@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -194,6 +195,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
