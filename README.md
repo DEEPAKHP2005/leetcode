@@ -36,6 +36,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/DEEPAKHP2005/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEEPAKHP2005/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 ## Divide and Conquer
 |  |
 | ------- |
