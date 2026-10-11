@@ -105,6 +105,7 @@
 | [4258-construct-uniform-parity-array-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4285-smallest-stable-index-ii) |
+| [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEEPAKHP2005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Newton's Method
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -341,4 +344,5 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
