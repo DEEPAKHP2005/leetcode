@@ -102,6 +102,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEEPAKHP2005/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4256-construct-uniform-parity-array-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
@@ -239,6 +240,7 @@
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Heap (Priority Queue)
 |  |
