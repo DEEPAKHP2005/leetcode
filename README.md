@@ -187,6 +187,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2491-smallest-even-multiple](https://github.com/DEEPAKHP2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEEPAKHP2005/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -363,4 +364,8 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [4378-nearest-available-drone](https://github.com/DEEPAKHP2005/leetcode/tree/master/4378-nearest-available-drone) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/DEEPAKHP2005/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
