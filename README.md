@@ -108,6 +108,7 @@
 | [4258-construct-uniform-parity-array-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4285-smallest-stable-index-ii) |
+| [4369-even-number-of-knight-moves](https://github.com/DEEPAKHP2005/leetcode/tree/master/4369-even-number-of-knight-moves) |
 | [4378-nearest-available-drone](https://github.com/DEEPAKHP2005/leetcode/tree/master/4378-nearest-available-drone) |
 | [4390-minimum-bishop-moves-to-reach-target](https://github.com/DEEPAKHP2005/leetcode/tree/master/4390-minimum-bishop-moves-to-reach-target) |
 | [4415-count-values-with-equally-spaced-occurrences-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4415-count-values-with-equally-spaced-occurrences-i) |
@@ -194,6 +195,7 @@
 | [4248-count-commas-in-range-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4369-even-number-of-knight-moves](https://github.com/DEEPAKHP2005/leetcode/tree/master/4369-even-number-of-knight-moves) |
 | [4390-minimum-bishop-moves-to-reach-target](https://github.com/DEEPAKHP2005/leetcode/tree/master/4390-minimum-bishop-moves-to-reach-target) |
 ## Prefix Sum
 |  |
