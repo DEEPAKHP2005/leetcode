@@ -110,6 +110,7 @@
 | [4285-smallest-stable-index-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4285-smallest-stable-index-ii) |
 | [4378-nearest-available-drone](https://github.com/DEEPAKHP2005/leetcode/tree/master/4378-nearest-available-drone) |
 | [4390-minimum-bishop-moves-to-reach-target](https://github.com/DEEPAKHP2005/leetcode/tree/master/4390-minimum-bishop-moves-to-reach-target) |
+| [4415-count-values-with-equally-spaced-occurrences-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4415-count-values-with-equally-spaced-occurrences-i) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4415-count-values-with-equally-spaced-occurrences-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4415-count-values-with-equally-spaced-occurrences-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
