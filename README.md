@@ -78,6 +78,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/DEEPAKHP2005/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DEEPAKHP2005/leetcode/tree/master/0739-daily-temperatures) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
@@ -238,6 +239,7 @@
 | [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEEPAKHP2005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Newton's Method
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
