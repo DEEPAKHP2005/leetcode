@@ -346,12 +346,14 @@
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,12 +361,14 @@
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Bracket Sequences
 |  |
 | ------- |
