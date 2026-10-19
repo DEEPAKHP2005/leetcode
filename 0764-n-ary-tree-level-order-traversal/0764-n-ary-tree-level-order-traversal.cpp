@@ -35,7 +35,9 @@ public:
                 q.pop();
                 level.push_back(node->val);
                 for(Node* child : node->children){
+                    if(child){
                     q.push(child);
+                    }
                 }
             }
             ans.push_back(level);
