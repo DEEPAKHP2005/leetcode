@@ -347,6 +347,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
