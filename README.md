@@ -100,6 +100,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3194-find-words-containing-character](https://github.com/DEEPAKHP2005/leetcode/tree/master/3194-find-words-containing-character) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/DEEPAKHP2005/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -233,6 +234,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3194-find-words-containing-character](https://github.com/DEEPAKHP2005/leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
