@@ -275,6 +275,7 @@
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Heap (Priority Queue)
@@ -356,6 +357,7 @@
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -394,6 +397,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
