@@ -354,6 +354,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
@@ -364,6 +365,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -377,6 +379,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
@@ -390,6 +393,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
