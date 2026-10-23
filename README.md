@@ -357,6 +357,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -387,6 +388,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -440,4 +442,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
