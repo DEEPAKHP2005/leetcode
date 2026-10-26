@@ -352,6 +352,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -373,6 +374,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -393,6 +395,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -415,6 +418,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DEEPAKHP2005/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
