@@ -244,6 +244,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/DEEPAKHP2005/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEEPAKHP2005/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DEEPAKHP2005/leetcode/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DEEPAKHP2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bucket Sort
@@ -358,6 +360,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEEPAKHP2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -411,6 +414,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEEPAKHP2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
