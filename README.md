@@ -162,6 +162,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4415-count-values-with-equally-spaced-occurrences-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4415-count-values-with-equally-spaced-occurrences-i) |
 ## Floyd's Cycle Finding Algorithm
@@ -191,6 +192,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3194-find-words-containing-character](https://github.com/DEEPAKHP2005/leetcode/tree/master/3194-find-words-containing-character) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Binary Search
 |  |
 | ------- |
