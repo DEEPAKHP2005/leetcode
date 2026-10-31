@@ -388,6 +388,7 @@
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/DEEPAKHP2005/leetcode/tree/master/0832-binary-tree-pruning) |
+| [1005-univalued-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -416,6 +417,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/DEEPAKHP2005/leetcode/tree/master/0832-binary-tree-pruning) |
+| [1005-univalued-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -448,6 +450,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/DEEPAKHP2005/leetcode/tree/master/0832-binary-tree-pruning) |
+| [1005-univalued-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -471,6 +474,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1005-univalued-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
