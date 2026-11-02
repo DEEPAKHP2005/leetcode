@@ -25,6 +25,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/DEEPAKHP2005/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -375,6 +376,7 @@
 | [0113-path-sum-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/DEEPAKHP2005/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEEPAKHP2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -442,6 +444,7 @@
 | [0113-path-sum-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DEEPAKHP2005/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/DEEPAKHP2005/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/DEEPAKHP2005/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEEPAKHP2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -528,6 +531,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/DEEPAKHP2005/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DEEPAKHP2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -541,4 +545,12 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0508-most-frequent-subtree-sum) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/DEEPAKHP2005/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/DEEPAKHP2005/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
