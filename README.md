@@ -116,6 +116,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEEPAKHP2005/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4284-smallest-stable-index-i) |
@@ -212,6 +213,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/DEEPAKHP2005/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/DEEPAKHP2005/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4245-count-commas-in-range](https://github.com/DEEPAKHP2005/leetcode/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4256-construct-uniform-parity-array-i) |
