@@ -94,6 +94,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1310-watering-plants](https://github.com/DEEPAKHP2005/leetcode/tree/master/1310-watering-plants) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DEEPAKHP2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -178,6 +179,7 @@
 | [0735-asteroid-collision](https://github.com/DEEPAKHP2005/leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/DEEPAKHP2005/leetcode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
+| [1310-watering-plants](https://github.com/DEEPAKHP2005/leetcode/tree/master/1310-watering-plants) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DEEPAKHP2005/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
