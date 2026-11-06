@@ -404,6 +404,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1731-even-odd-tree) |
@@ -435,6 +436,7 @@
 | [1005-univalued-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -472,6 +474,7 @@
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1731-even-odd-tree) |
@@ -497,6 +500,7 @@
 | [1005-univalued-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/1731-even-odd-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
