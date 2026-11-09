@@ -70,6 +70,7 @@
 | [0001-two-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/DEEPAKHP2005/leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DEEPAKHP2005/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -276,6 +277,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DEEPAKHP2005/leetcode/tree/master/0055-jump-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -368,6 +370,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DEEPAKHP2005/leetcode/tree/master/0055-jump-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/DEEPAKHP2005/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Tree
 |  |
