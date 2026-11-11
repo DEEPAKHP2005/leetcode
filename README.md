@@ -115,6 +115,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/DEEPAKHP2005/leetcode/tree/master/3194-find-words-containing-character) |
@@ -149,6 +150,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/DEEPAKHP2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4284-smallest-stable-index-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/4285-smallest-stable-index-ii) |
@@ -294,6 +297,7 @@
 | [0917-boats-to-save-people](https://github.com/DEEPAKHP2005/leetcode/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
@@ -323,6 +327,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DEEPAKHP2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
@@ -336,6 +341,7 @@
 | [0506-relative-ranks](https://github.com/DEEPAKHP2005/leetcode/tree/master/0506-relative-ranks) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
 | ------- |
