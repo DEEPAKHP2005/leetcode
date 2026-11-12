@@ -121,6 +121,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/DEEPAKHP2005/leetcode/tree/master/3194-find-words-containing-character) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DEEPAKHP2005/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3582-find-indices-of-stable-mountains](https://github.com/DEEPAKHP2005/leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
