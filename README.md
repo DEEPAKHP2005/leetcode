@@ -127,6 +127,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/DEEPAKHP2005/leetcode/tree/master/3194-find-words-containing-character) |
@@ -167,6 +168,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3738-make-array-non-decreasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
@@ -363,6 +366,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/DEEPAKHP2005/leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
