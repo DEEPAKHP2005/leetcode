@@ -187,6 +187,7 @@
 | [0496-next-greater-element-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0807-custom-sort-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -278,6 +279,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/DEEPAKHP2005/leetcode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/DEEPAKHP2005/leetcode/tree/master/0874-backspace-string-compare) |
@@ -320,6 +322,7 @@
 | [0455-assign-cookies](https://github.com/DEEPAKHP2005/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/DEEPAKHP2005/leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [0901-advantage-shuffle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/DEEPAKHP2005/leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DEEPAKHP2005/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -356,6 +359,7 @@
 | [0455-assign-cookies](https://github.com/DEEPAKHP2005/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/DEEPAKHP2005/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/DEEPAKHP2005/leetcode/tree/master/0561-array-partition) |
+| [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0807-custom-sort-string) |
 | [0901-advantage-shuffle](https://github.com/DEEPAKHP2005/leetcode/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/DEEPAKHP2005/leetcode/tree/master/0917-boats-to-save-people) |
@@ -382,6 +386,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/DEEPAKHP2005/leetcode/tree/master/0506-relative-ranks) |
+| [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -417,6 +422,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
