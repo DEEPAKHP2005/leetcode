@@ -248,6 +248,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2491-smallest-even-multiple](https://github.com/DEEPAKHP2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/DEEPAKHP2005/leetcode/tree/master/2556-convert-the-temperature) |
@@ -339,6 +340,7 @@
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DEEPAKHP2005/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
