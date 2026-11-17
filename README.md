@@ -105,6 +105,7 @@
 | [0983-validate-stack-sequences](https://github.com/DEEPAKHP2005/leetcode/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
@@ -337,6 +338,7 @@
 | [0917-boats-to-save-people](https://github.com/DEEPAKHP2005/leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DEEPAKHP2005/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -379,6 +381,7 @@
 | [0917-boats-to-save-people](https://github.com/DEEPAKHP2005/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
