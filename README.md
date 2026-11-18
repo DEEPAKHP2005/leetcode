@@ -130,6 +130,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -351,6 +352,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DEEPAKHP2005/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -394,6 +396,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DEEPAKHP2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
