@@ -294,6 +294,7 @@
 | [0874-backspace-string-compare](https://github.com/DEEPAKHP2005/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DEEPAKHP2005/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
@@ -341,6 +342,7 @@
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
+| [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -408,6 +410,7 @@
 | [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
+| [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DEEPAKHP2005/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
