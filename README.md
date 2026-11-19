@@ -108,6 +108,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1127-last-stone-weight](https://github.com/DEEPAKHP2005/leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1222-remove-covered-intervals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1222-remove-covered-intervals) |
@@ -414,6 +415,7 @@
 | [0506-relative-ranks](https://github.com/DEEPAKHP2005/leetcode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/DEEPAKHP2005/leetcode/tree/master/1127-last-stone-weight) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
