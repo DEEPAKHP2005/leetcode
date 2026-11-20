@@ -108,6 +108,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DEEPAKHP2005/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1095-two-city-scheduling](https://github.com/DEEPAKHP2005/leetcode/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/DEEPAKHP2005/leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
@@ -347,6 +348,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DEEPAKHP2005/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1095-two-city-scheduling](https://github.com/DEEPAKHP2005/leetcode/tree/master/1095-two-city-scheduling) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -394,6 +396,7 @@
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/DEEPAKHP2005/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1095-two-city-scheduling](https://github.com/DEEPAKHP2005/leetcode/tree/master/1095-two-city-scheduling) |
 | [1137-height-checker](https://github.com/DEEPAKHP2005/leetcode/tree/master/1137-height-checker) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1222-remove-covered-intervals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1222-remove-covered-intervals) |
@@ -706,4 +709,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DEEPAKHP2005/leetcode/tree/master/0455-assign-cookies) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/DEEPAKHP2005/leetcode/tree/master/1095-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/DEEPAKHP2005/leetcode/tree/master/1095-two-city-scheduling) |
 <!---LeetCode Topics End-->
