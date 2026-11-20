@@ -118,6 +118,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DEEPAKHP2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -202,6 +203,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -348,6 +350,7 @@
 | [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DEEPAKHP2005/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -394,6 +397,7 @@
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1222-remove-covered-intervals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DEEPAKHP2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -419,6 +423,7 @@
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DEEPAKHP2005/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
