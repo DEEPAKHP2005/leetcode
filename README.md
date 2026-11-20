@@ -123,6 +123,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -206,6 +207,7 @@
 | [1140-distant-barcodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/1140-distant-barcodes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -403,6 +405,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DEEPAKHP2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
