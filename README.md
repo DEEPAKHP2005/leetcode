@@ -128,6 +128,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DEEPAKHP2005/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/DEEPAKHP2005/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -182,6 +183,7 @@
 | [0917-boats-to-save-people](https://github.com/DEEPAKHP2005/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/DEEPAKHP2005/leetcode/tree/master/0985-bag-of-tokens) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DEEPAKHP2005/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -214,6 +216,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEEPAKHP2005/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/DEEPAKHP2005/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -423,6 +426,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEEPAKHP2005/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/DEEPAKHP2005/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DEEPAKHP2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
