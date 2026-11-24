@@ -4,7 +4,7 @@ public:
         int first = 0;
         int second = 0;
         int third = 0;
-        for(auto x : triplets){
+        for(const auto& x : triplets){
             if(x[0]<=target[0] && x[1] <= target[1] && x[2] <= target[2]){
             first = max(first, x[0]);
             second = max(second, x[1]);
