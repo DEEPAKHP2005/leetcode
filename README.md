@@ -126,6 +126,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1552-build-an-array-with-stack-operations](https://github.com/DEEPAKHP2005/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DEEPAKHP2005/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -272,6 +273,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/DEEPAKHP2005/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2491-smallest-even-multiple](https://github.com/DEEPAKHP2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/DEEPAKHP2005/leetcode/tree/master/2556-convert-the-temperature) |
@@ -374,6 +376,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DEEPAKHP2005/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEEPAKHP2005/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -429,6 +432,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEEPAKHP2005/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -756,4 +760,8 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/DEEPAKHP2005/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
