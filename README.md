@@ -325,6 +325,7 @@
 | [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DEEPAKHP2005/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -381,6 +382,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DEEPAKHP2005/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -441,6 +443,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1530-check-if-a-string-can-break-another-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/DEEPAKHP2005/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DEEPAKHP2005/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
