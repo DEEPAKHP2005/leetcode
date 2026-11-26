@@ -279,6 +279,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/DEEPAKHP2005/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/DEEPAKHP2005/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2491-smallest-even-multiple](https://github.com/DEEPAKHP2005/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/DEEPAKHP2005/leetcode/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DEEPAKHP2005/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -392,6 +393,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DEEPAKHP2005/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -737,6 +739,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0113-path-sum-ii) |
+| [2279-maximum-split-of-positive-even-integers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 ## DP on Trees
 |  |
 | ------- |
