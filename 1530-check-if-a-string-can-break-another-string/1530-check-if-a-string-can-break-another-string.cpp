@@ -13,6 +13,9 @@ public:
             if(s2[i] < s1[i]){
                 second = false;
             }
+            if(frist== false && second==false){
+                return false;
+            }
         }
         return frist || second;
     }
