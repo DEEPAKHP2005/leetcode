@@ -145,6 +145,7 @@
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/DEEPAKHP2005/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DEEPAKHP2005/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/DEEPAKHP2005/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -311,6 +312,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/DEEPAKHP2005/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4284-smallest-stable-index-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4284-smallest-stable-index-i) |
@@ -409,6 +411,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/DEEPAKHP2005/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -471,6 +474,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DEEPAKHP2005/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/DEEPAKHP2005/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/DEEPAKHP2005/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -718,6 +722,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/DEEPAKHP2005/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/DEEPAKHP2005/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [4378-nearest-available-drone](https://github.com/DEEPAKHP2005/leetcode/tree/master/4378-nearest-available-drone) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
