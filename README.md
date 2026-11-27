@@ -258,6 +258,7 @@
 | [0219-contains-duplicate-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DEEPAKHP2005/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DEEPAKHP2005/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DEEPAKHP2005/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DEEPAKHP2005/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -328,6 +330,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/DEEPAKHP2005/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1304-longest-happy-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/DEEPAKHP2005/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DEEPAKHP2005/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DEEPAKHP2005/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/DEEPAKHP2005/leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1666-make-the-string-great](https://github.com/DEEPAKHP2005/leetcode/tree/master/1666-make-the-string-great) |
@@ -349,6 +352,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/DEEPAKHP2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1321-get-equal-substrings-within-budget](https://github.com/DEEPAKHP2005/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/DEEPAKHP2005/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
