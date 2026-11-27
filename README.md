@@ -134,6 +134,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/DEEPAKHP2005/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/DEEPAKHP2005/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/DEEPAKHP2005/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -404,6 +405,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DEEPAKHP2005/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/DEEPAKHP2005/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/DEEPAKHP2005/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/DEEPAKHP2005/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/DEEPAKHP2005/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
