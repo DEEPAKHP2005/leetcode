@@ -151,6 +151,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -364,6 +365,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/DEEPAKHP2005/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DEEPAKHP2005/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DEEPAKHP2005/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/DEEPAKHP2005/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [4418-number-of-intersecting-interval-pairs-i](https://github.com/DEEPAKHP2005/leetcode/tree/master/4418-number-of-intersecting-interval-pairs-i) |
 ## Newton's Method
@@ -421,6 +423,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/DEEPAKHP2005/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -484,6 +487,7 @@
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/DEEPAKHP2005/leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/DEEPAKHP2005/leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DEEPAKHP2005/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DEEPAKHP2005/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DEEPAKHP2005/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -508,6 +512,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/DEEPAKHP2005/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/DEEPAKHP2005/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/DEEPAKHP2005/leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/DEEPAKHP2005/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DEEPAKHP2005/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2725-mice-and-cheese](https://github.com/DEEPAKHP2005/leetcode/tree/master/2725-mice-and-cheese) |
 ## Quickselect
